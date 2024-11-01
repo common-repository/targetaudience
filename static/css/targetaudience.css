@@ -1,0 +1,48 @@
+@media screen and (min-width: 783px) {
+	#col-left.add-audience-form-container {
+		width: 25%;
+	}
+	#col-right.audiences-table-container {
+		width: 75%;
+	}
+	#col-right.manage-column.column-status {
+		width: 50px;
+	}
+}
+
+.audiences-table-container textarea {
+	font-size: 11px;
+	resize: none;
+	background: #dcffdf!important;
+}
+.audiences-table-container .column-id {
+	width: 120px;
+}
+
+#wpta-info {
+	margin-top: 22px;
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	padding: 12px;
+	background: #fff;
+	width: 95%;
+	box-sizing: border-box;
+}
+#wpta-info h4 {
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+#wpta-info p {
+	font-style: normal;
+}
+#wpta-info p:last-child {
+	margin-bottom: 0;
+}
+#wpta-info .submit {
+	padding-bottom: 0;
+	margin-top: 0px;
+}
+#wpta-info .button {
+	width: 100%;
+	text-align: center;
+}

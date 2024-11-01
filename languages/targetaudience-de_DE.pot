@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2019-02-11 21:09+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: inc/class-wpta-table.php:34
+msgid "Edit"
+msgstr ""
+
+#: inc/class-wpta-table.php:53 inc/wpta-admin.php:88 inc/wpta-admin.php:124
+msgid "Name"
+msgstr ""
+
+#: inc/class-wpta-table.php:54 inc/wpta-admin.php:95 inc/wpta-admin.php:129
+msgid "Alternative 1"
+msgstr ""
+
+#: inc/class-wpta-table.php:55 inc/wpta-admin.php:102 inc/wpta-admin.php:134
+msgid "Alternative 2"
+msgstr ""
+
+#: inc/class-wpta-table.php:56
+msgid "Identifier"
+msgstr ""
+
+#: inc/class-wpta-table.php:63
+msgid "Delete"
+msgstr ""
+
+#: inc/wpta-admin.php:5 inc/wpta-admin.php:68
+msgid "Audiences"
+msgstr ""
+
+#: inc/wpta-admin.php:36
+#, php-format
+msgid "%s record deleted from database"
+msgid_plural "%s records deleted from database"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/wpta-admin.php:42
+msgid "Audience updated successfully!"
+msgstr ""
+
+#: inc/wpta-admin.php:44
+msgid ""
+"Audience could not be updated. Please make sure the fields are not empty."
+msgstr ""
+
+#: inc/wpta-admin.php:81
+msgid "Edit Audience"
+msgstr ""
+
+#: inc/wpta-admin.php:90 inc/wpta-admin.php:125
+msgid "entrepreneur"
+msgstr ""
+
+#: inc/wpta-admin.php:91 inc/wpta-admin.php:126
+msgid "The name for this audience (You are entrepreneur?)."
+msgstr ""
+
+#: inc/wpta-admin.php:97 inc/wpta-admin.php:104 inc/wpta-admin.php:130
+msgid "entrepreneurs"
+msgstr ""
+
+#: inc/wpta-admin.php:98 inc/wpta-admin.php:131
+msgid "The first alternative for this audience (We help entrepreneurs)."
+msgstr ""
+
+#: inc/wpta-admin.php:105 inc/wpta-admin.php:136
+msgid "The second alternative for this audience (For entrepreneurs)."
+msgstr ""
+
+#: inc/wpta-admin.php:110
+msgid "Update Audience"
+msgstr ""
+
+#: inc/wpta-admin.php:117
+msgid "Add an Audience"
+msgstr ""
+
+#: inc/wpta-admin.php:118
+msgid ""
+"At first you need to add a few audiences. After that just copy the default "
+"shortcode in you page and append the matching identificator to your URL you "
+"share."
+msgstr ""
+
+#: inc/wpta-admin.php:135
+msgid "entrepreneurs (too)"
+msgstr ""
+
+#: inc/wpta-admin.php:139
+msgid "Add Audience"
+msgstr ""
+
+#: inc/wpta-admin.php:143
+msgid "Important notice"
+msgstr ""
+
+#: inc/wpta-admin.php:144
+msgid ""
+"Did you know my exclusive mastermind course? Get two online-marketing hack "
+"per week for nearly one year. More than 100 lessons are waiting and access "
+"will be granted via invitation only. "
+msgstr ""
+
+#: inc/wpta-admin.php:145
+#, php-format
+msgid "With this plugin i give you an invitation valued 399 euro. %s"
+msgstr ""
+
+#: inc/wpta-admin.php:145 inc/wpta-admin.php:147
+msgid "Click here to get your seat now"
+msgstr ""
+
+#: inc/wpta-admin.php:145
+msgid "Click here to get your seat."
+msgstr ""
+
+#: inc/wpta-admin.php:146
+msgid ""
+"PS: Within the course you can get my book &ldquo;Viral-Masterplan&rdquo; "
+"(official price 39 euro) for free."
+msgstr ""
+
+#: inc/wpta-admin.php:147
+msgid "Take invitation now"
+msgstr ""
